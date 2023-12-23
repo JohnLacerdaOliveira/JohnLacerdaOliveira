@@ -1,1 +1,1 @@
-![Codewars](https://github.r2v.ch/codewars?user=JohnLacerdaOliveira&top_languages=true)
+![Codewars](https://github.r2v.ch/codewars?user=JohnLacerdaOliveira&top_languages=true&hide_clan=true)
