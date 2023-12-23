@@ -1,4 +1,4 @@
-https://github-readme-codewars-stats.herokuapp.com/api/?username=JohnLacerdaOliveira&card&colormode=dark_mode
+![Codewars](https://github-readme-codewars-stats.herokuapp.com/api/?username=JohnLacerdaOliveira&card&colormode=dark_mode)
 
 <p align="center" >
     <a href="LINK TO: WHEN CLICKED">
